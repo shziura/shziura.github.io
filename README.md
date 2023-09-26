@@ -1,0 +1,3 @@
+# My Website...
+
+...is just a placeholder until i get myself to make a portfolio or sum lol
