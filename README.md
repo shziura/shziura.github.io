@@ -1,5 +1,20 @@
 # shziura.github.io
 
+## Project
+
+A simple website to test stuff and whatever
+It's made in Vue and uses Tailwind for CSS
+
+
+
+
+
+
+
+
+
+
+# Vue template (ignore this)
 ## Project setup
 ```
 npm install
